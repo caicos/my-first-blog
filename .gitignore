@@ -1,6 +1,6 @@
 *.pyc
 __pycache__
 myvenv
-bd.sqlitle3
+db.sqlitle3
 /static
 .DS_Store
